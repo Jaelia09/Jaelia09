@@ -6,7 +6,7 @@
 
 * 🧬 I'm working on projects in computational biology and machine learning
 * 📱 I also develop websites and Android apps
-* 🧠 Languages I learn or master include: Python, Javascript, HTML, and CSS
+* 🧠 Languages I have mastered include: Python, Javascript, HTML, and CSS
   
 ---
 
