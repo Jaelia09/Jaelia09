@@ -5,8 +5,8 @@
 **`Researcher`**
 
 * 🧬 I'm working on projects in computational biology and machine learning
-* 📱 I also develop websites and Android apps
-* 🧠 Languages I have mastered include: Python, Javascript, HTML, and CSS
+* 📱 I also develop websites and Flutter apps
+* 🧠 Languages I have mastered include: Python, Dart, Javascript, HTML, and CSS
   
 ---
 
@@ -22,6 +22,9 @@ Passionate biomed researcher. My fields of interest include oncology, immunology
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
