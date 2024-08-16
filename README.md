@@ -12,7 +12,7 @@
 
 ### ✨ About me
 
-Passionate biomed researcher, hobbies include website and app development.
+Passionate biomed researcher. My fields of research include oncology, immunology, and machine learning. My hobbies are app and website development.
 
 <br />
 
