@@ -19,7 +19,6 @@ Passionate biomed researcher. My fields of research include oncology, immunology
 ---
 <details>
     <summary><b>🛠️ Languages and Tools</b></summary>
-    <br />
     <p align="left">
               <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
