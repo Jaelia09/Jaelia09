@@ -14,8 +14,6 @@
 
 Passionate biomed researcher. My fields of interest include oncology, immunology, and machine learning. My hobbies are app and website development.
 
-<br />
-
 ---
 <b>🛠️ Languages and Tools</b>
 <p align="left">
