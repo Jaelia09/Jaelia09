@@ -1,21 +1,13 @@
-# 👋 Hi, I'm Jaelia!
+# jaelia
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
-**`Researcher`**
+**`researcher`**
 
-* 🧬 I'm working on projects in computational biology and machine learning
-* 📱 I also develop websites and Flutter apps
-* 🧠 Languages I have mastered include: Python, Dart, Javascript, HTML, and CSS
+* comp bio @ UCSD, agentic ai @ CSAIL
   
 ---
-
-### ✨ About me
-
-Passionate biomed researcher. My fields of interest include oncology, immunology, and machine learning. My hobbies are app and website development.
-
----
-<b>🛠️ Languages and Tools</b>
+<b> Languages and Tools</b>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
